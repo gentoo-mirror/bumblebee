@@ -6,10 +6,11 @@
     <name>Vadim Misbakh-Soloviov</name>
   </maintainer>
   <longdescription>
-    Kernel module which automatically detects the required ACPI calls for two
-    kinds of Optimus laptops for safe disabling/enabling the discrete graphics card.
+    This tool is intended to be an easy way of configuring your desired
+    applications to be run through Bumblebee. It will allow to create and modify
+    a menu entry with an alternative (optirun) version of the default launcher.
   </longdescription>
   <upstream>
-    <remote-id type="github">Bumblebee-Project/bbswitch</remote-id>
+    <remote-id type="github">amonakov/primus</remote-id>
   </upstream>
 </pkgmetadata>
